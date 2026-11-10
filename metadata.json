@@ -1,0 +1,6 @@
+{
+  "name": "Vyapar AI - MSME Operating System",
+  "description": "Unified AI-powered business operating system for Indian MSMEs with automated inventory, sales, Khata ledger, OCR invoice scanner, and Gemini business advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
